@@ -1,0 +1,10 @@
+{
+  "name": "Your Package's Name",
+  "description": "Your Package's Description",
+  "requirements": {
+    "node_modules": [],
+    "automations": ["Workshop"]
+  },
+  "translation_support": true,
+  "reject_legacy": false
+}

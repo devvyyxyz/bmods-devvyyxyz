@@ -1,18 +1,11 @@
-/*
-  MySQL Query with Stored Connection by candiedapple
-  Licensed under MIT License
-
-  Execute a MySQL query using a stored connection.
-*/
 module.exports = {
   data: {
     name: "MySQL Query",
   },
-  category: "Global Data",
+  category: "MySQL",
   info: {
-    source: "https://github.com/RatWasHere/bmods/tree/master/Actions",
-    creator: "candiedapple",
-    donate: "https://buymeacoffee.com/candiedapple",
+    creator: "devvyyxyz",
+    donate: "https://github.com/sponsors/devvyyxyz",
   },
   UI: [
     {
